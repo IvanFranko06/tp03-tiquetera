@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tp03-tiquetera/1.0.0": {
+        "runtime": {
+          "tp03-tiquetera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tp03-tiquetera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

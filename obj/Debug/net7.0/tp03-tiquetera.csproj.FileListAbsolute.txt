@@ -1,0 +1,15 @@
+F:\programacion\tp3 tiquetera\tp03-tiquetera\bin\Debug\net7.0\tp03-tiquetera.exe
+F:\programacion\tp3 tiquetera\tp03-tiquetera\bin\Debug\net7.0\tp03-tiquetera.deps.json
+F:\programacion\tp3 tiquetera\tp03-tiquetera\bin\Debug\net7.0\tp03-tiquetera.runtimeconfig.json
+F:\programacion\tp3 tiquetera\tp03-tiquetera\bin\Debug\net7.0\tp03-tiquetera.dll
+F:\programacion\tp3 tiquetera\tp03-tiquetera\bin\Debug\net7.0\tp03-tiquetera.pdb
+F:\programacion\tp3 tiquetera\tp03-tiquetera\obj\Debug\net7.0\tp03-tiquetera.csproj.AssemblyReference.cache
+F:\programacion\tp3 tiquetera\tp03-tiquetera\obj\Debug\net7.0\tp03-tiquetera.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacion\tp3 tiquetera\tp03-tiquetera\obj\Debug\net7.0\tp03-tiquetera.AssemblyInfoInputs.cache
+F:\programacion\tp3 tiquetera\tp03-tiquetera\obj\Debug\net7.0\tp03-tiquetera.AssemblyInfo.cs
+F:\programacion\tp3 tiquetera\tp03-tiquetera\obj\Debug\net7.0\tp03-tiquetera.csproj.CoreCompileInputs.cache
+F:\programacion\tp3 tiquetera\tp03-tiquetera\obj\Debug\net7.0\tp03-tiquetera.dll
+F:\programacion\tp3 tiquetera\tp03-tiquetera\obj\Debug\net7.0\refint\tp03-tiquetera.dll
+F:\programacion\tp3 tiquetera\tp03-tiquetera\obj\Debug\net7.0\tp03-tiquetera.pdb
+F:\programacion\tp3 tiquetera\tp03-tiquetera\obj\Debug\net7.0\tp03-tiquetera.genruntimeconfig.cache
+F:\programacion\tp3 tiquetera\tp03-tiquetera\obj\Debug\net7.0\ref\tp03-tiquetera.dll

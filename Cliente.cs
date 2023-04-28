@@ -1,7 +1,6 @@
 
-namespace tp3
-{
-    class Cliente
+
+    public class Cliente
     {
 
         public string Nombre { get; private set; }
@@ -21,12 +20,12 @@ namespace tp3
          TipoEntrada=0;
          FechaInscripcion=new DateTime();
         }
-        public Cliente(string nom, string ape, int dni, int tipoE,int totalA, DateTime nacimiento)
+        public Cliente(string nom, string ape, int dni, int tipoE,int totalA, DateTime inscripcion)
         {
             Nombre = nom;
             DNI = dni;
             TipoEntrada = tipoE;
-            FechaInscripcion = nacimiento;
+            FechaInscripcion = inscripcion;
             Apellido = ape;
             TotalAbonado = totalA;
         }
@@ -34,4 +33,4 @@ namespace tp3
 
         
     }
-}
+
